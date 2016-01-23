@@ -1,0 +1,22 @@
+{
+  "name": "lussatech-cli",
+  "version": "1.0.0",
+  "description": "lussatech command line interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lussa Teknologi",
+  "license": "ISC",
+  "bin": {
+    "lussatech": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lussatech/lussatech-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lussatech/lussatech-cli/issues"
+  },
+  "homepage": "https://github.com/lussatech/lussatech-cli"
+}
